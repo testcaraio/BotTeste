@@ -240,9 +240,9 @@
         status: false,
         name: "basicBot",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/testcaraio/BotTeste/master/basicBot.js",
+        scriptLink: "https://rawgit.com/testcaraio/BotTeste/master/Testy.js",
         cmdLink: "http://git.io/245Ppg",
-        chatLink: "https://rawgit.com/testcaraio/BotTeste/master/lang/pt-BR.json",
+        chatLink: "https://rawgit.com/testcaraio/BotTeste/master/lang/chat.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
@@ -250,7 +250,7 @@
         settings: {
             botName: "basicBot",
             language: "english",
-            chatLink: "https://rawgit.com/testcaraio/BotTeste/master/lang/pt-BR.json",
+            chatLink: "https://rawgit.com/testcaraio/BotTeste/master/lang/chat.json",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100
