@@ -242,7 +242,7 @@
         loggedInID: null,
         scriptLink: "https://rawgit.com/testcaraio/BotTeste/master/Testy.js",
         cmdLink: "http://git.io/245Ppg",
-        chatLink: "https://rawgit.com/testcaraio/BotTeste/master/lang/chat.json",
+        chatLink: "https://rawgit.com/testcaraio/BotTeste/master/chat.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
