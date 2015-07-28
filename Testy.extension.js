@@ -118,6 +118,6 @@
     }));
 
     //Start the bot and extend it when it has loaded.
-    $.getScript("https://rawgit.com/testcaraio/BotTeste/master/basicBot.js", extend);
+    $.getScript("https://rawgit.com/testcaraio/BotTeste/master/Testy.js", extend);
 
 }).call(this);
