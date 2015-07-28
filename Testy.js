@@ -249,8 +249,6 @@
         retrieveFromStorage: retrieveFromStorage,
         settings: {
             botName: "basicBot",
-            language: "english",
-            chatLink: "https://rawgit.com/testcaraio/BotTeste/master/lang/chat.json",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100
