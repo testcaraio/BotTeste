@@ -55,8 +55,6 @@
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
         botName: "Farofa's Bot",
-        language: "portuguese",
-        chatLink: "https://rawgit.com/testcaraio/BotTeste/master/lang/pt-BR.json",
         startupCap: 1, // 1-200
         startupVolume: 0, // 0-100
         startupEmoji: true, // true or false
